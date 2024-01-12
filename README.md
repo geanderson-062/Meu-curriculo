@@ -1,4 +1,4 @@
-# README para Currículo de Geanderson
+# Currículo de Geanderson
 
 ## Visão Geral
 
@@ -28,7 +28,9 @@ Este projeto é um currículo digital para Geanderson, apresentando suas informa
     ├───/css
     │   └───style.css     # Estilos CSS para a página
     └───/assets
-        └───/favicon      # Favicon e ícones relacionados
+    │   └───/favicon      # Favicon e ícones relacionados
+    └───/screens
+        └───/...          # páginas adicionais do sistema
 ```
 
 ## Como Usar
